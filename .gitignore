@@ -1,0 +1,28 @@
+# Ignorar entornos virtuales
+env/
+venv/
+*.venv
+
+# Ignorar archivos de compilación de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar configuraciones de entorno
+.env
+.env.local
+
+# Ignorar dependencias
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Ignorar configuraciones de editores de código
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Ignorar archivos de logs y bases de datos temporales
+logs/
+*.log
+db.sqlite3
