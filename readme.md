@@ -40,4 +40,11 @@ git [clone https://github.com/tu-usuario/simulador-mantenimiento.git](https://gi
    - Agrega un caso de éxito real
    - Incluye testimonios de usuarios
 
-¿Necesitas adaptar alguna sección específica a tus necesidades? 😊
+# Crear entorno
+python -m venv venv
+
+# Activar
+.\venv\Scripts\activate
+
+# Verificar (debe mostrar '(venv)' al inicio)
+pip list
