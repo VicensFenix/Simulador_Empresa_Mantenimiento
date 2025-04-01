@@ -21,4 +21,23 @@ Herramienta de simulación para empresas de mantenimiento técnico que calcula c
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/tu-usuario/simulador-mantenimiento.git
+git [clone https://github.com/tu-usuario/simulador-mantenimiento.git](https://github.com/VicensFenix/Simulador_Empresa_Mantenimiento.git)
+
+
+### 📌 Elementos incluidos:
+1. **Badges visuales** para tecnologías usadas
+2. **Instrucciones claras** de instalación
+3. **Ejemplo de configuración** (JSON)
+4. **Sección visual** con gráfico de ejemplo
+5. **Beneficios empresariales** concretos
+6. **Políticas de contribución** estándar
+
+### 💡 Recomendaciones:
+1. Para **personalizar**: 
+   - Reemplaza los enlaces por tus URLs reales
+   - Añade capturas de pantalla de tu propia simulación
+2. Para **empresas**: 
+   - Agrega un caso de éxito real
+   - Incluye testimonios de usuarios
+
+¿Necesitas adaptar alguna sección específica a tus necesidades? 😊
